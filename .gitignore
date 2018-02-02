@@ -1,0 +1,7 @@
+src/train_*
+src/frames*
+.venv
+_vizdoom.init
+src/model
+__pycache__
+.idea
